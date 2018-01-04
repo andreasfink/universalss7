@@ -1,0 +1,48 @@
+[submodule "ulib"]
+	path = ulib
+	url = https://github.com/andreasfink/ulib
+[submodule "ulibasn1"]
+	path = ulibasn1
+	url = https://github.com/andreasfink/ulibasn1
+[submodule "ulibsctp"]
+	path = ulibsctp
+	url = https://github.com/andreasfink/ulibsctp
+[submodule "ulibm2pa"]
+	path = ulibm2pa
+	url = https://github.com/andreasfink/ulibm2pa
+[submodule "ulibmtp3"]
+	path = ulibmtp3
+	url = https://github.com/andreasfink/ulibmtp3
+[submodule "ulibgt"]
+	path = ulibgt
+	url = https://github.com/andreasfink/ulibgt
+[submodule "ulibsccp"]
+	path = ulibsccp
+	url = https://github.com/andreasfink/ulibsccp
+[submodule "ulibtcap"]
+	path = ulibtcap
+	url = https://github.com/andreasfink/ulibtcap
+[submodule "ulibgsmmap"]
+	path = ulibgsmmap
+	url = https://github.com/andreasfink/ulibgsmmap
+[submodule "ulibsms"]
+	path = ulibsms
+	url = https://github.com/andreasfink/ulibsms
+[submodule "ulibsmpp"]
+	path = ulibsmpp
+	url = https://github.com/andreasfink/ulibsmpp
+[submodule "ulibdns"]
+	path = ulibdns
+	url = https://github.com/andreasfink/ulibdns
+[submodule "ulibpcap"]
+	path = ulibpcap
+	url = https://github.com/andreasfink/ulibpcap
+[submodule "schrittmacherclient"]
+	path = schrittmacherclient
+	url = https://github.com/andreasfink/schrittmacherclient
+[submodule "umscript"]
+	path = umscript
+	url = https://github.com/andreasfink/umscript
+[submodule "ulibdb"]
+	path = ulibdb
+	url = https://github.com/andreasfink/ulibdb
